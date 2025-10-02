@@ -4,3 +4,8 @@ function hello() {
 }
 
 
+function hello2() {
+    var mensaje = "hello gabriel 2";
+    console.log(mensaje);
+}
+
