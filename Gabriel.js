@@ -9,3 +9,7 @@ function hello2() {
     console.log(mensaje);
 }
 
+function hello3() {
+    var mensaje = "hello gabriel 3";
+    console.log(mensaje);
+}q
